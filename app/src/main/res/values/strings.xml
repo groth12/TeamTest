@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Hello Goodbye</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- string used for the button -->
+    <string name="exclaim_btn">…or Here</string>
+
+    <!-- string used for the button -->
+    <string name="top_btn">Press Here…</string>
+
+    <!-- strings used for output -->
+    <string name="hello">Hello there…</string>
+    <string name="hauntedTxt">Somebody is home</string>
+    <string name="smile">Smile Big!</string>
+    <string name="nothing">Nothing to see here</string>
+    <string name="clearText"> </string>
+
+    <!-- DESCRIPTION OF THE IMAGE - DEVIL -->
+    <string name="exclaim_img">Exclamation image</string>
+
+    <!-- DESCRIPTION OF THE IMAGE - DEVIL -->
+    <string name="smile_img">Smile image</string>
+
+
+</resources>
