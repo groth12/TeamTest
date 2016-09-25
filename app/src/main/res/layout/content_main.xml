@@ -74,4 +74,13 @@
         android:layout_marginBottom="10dip"
         android:layout_alignParentStart="false" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/will"
+        android:id="@+id/textView3"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true" />
+
 </RelativeLayout>

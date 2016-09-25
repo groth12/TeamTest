@@ -22,4 +22,7 @@
     <string name="smile_img">Smile image</string>
 
 
+    <!-- Strings for textboxs -->
+    <string name="will">Will's Text Box :D</string>
+
 </resources>
