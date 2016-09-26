@@ -23,7 +23,8 @@
 
 
     <!-- Strings for textboxs -->
-    <string name="will">Will's Text Box :D</string>
-    <string name="jot">Jots Text Box?</string>
+    <string name="will">Will\'s Text Box :D</string>
+    <string name="jot">Jots Text Box\?</string>
+    <string name="dre">Your boy, Dre</string>
 
 </resources>

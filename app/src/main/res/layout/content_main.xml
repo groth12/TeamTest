@@ -71,8 +71,7 @@
         android:textColor="@color/drkgreen"
         android:layout_above="@+id/button"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="10dip"
-        android:layout_alignParentStart="false" />
+        android:layout_marginBottom="10dip" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -84,13 +83,21 @@
         android:layout_centerHorizontal="true" />
 
     <TextView
-        android:text="TextView"
+
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/textView3"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="10dp"
         android:id="@+id/textView4"
-        tools:text="@string/jot" />
+        android:text="@string/jot" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/textView5"
+        android:layout_below="@+id/imageView"
+        android:layout_centerHorizontal="true"
+        android:text="@string/dre" />
 
 </RelativeLayout>
